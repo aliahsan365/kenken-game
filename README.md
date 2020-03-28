@@ -1,3 +1,3 @@
 # kenken-game
 Juego matematico similar al sudoku
-##EJECUTAR KENKEN.CLASS TO RUN
+Ejecutar Kenken.java para empezar
